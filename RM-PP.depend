@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1380260542 source:c:\users\kris\google ‘∆∂À”≤≈Ã\third semester\cs552\project\rm-pp\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+
+1380684408 source:c:\users\kris\documents\github\realtimesystem\rm-pp\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<cmath>
+
